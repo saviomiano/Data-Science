@@ -5,7 +5,10 @@ An exploration and synthesis of personal digital footprints using data extracted
 ## Project Overview
 [cite_start]This project uncovers the geo-cultural and professional trends hidden within personal data exports[cite: 162, 187, 188]. [cite_start]By analyzing interaction histories, location logs, and audience demographics across three major digital ecosystems, the study maps out professional readiness, AI synergy, and global network reach[cite: 215, 227].
 
-(Summary.png)
+## Dataset Summary
+Below is a high-level overview of the data metrics collected across Indeed, ChatGPT, and Instagram during the initial data understanding phase:
+
+![Dataset Summary Metrics](Summary.png)
 
 ## Datasets Processed
 [cite_start]The project analyzed over 100 raw files totaling **240 MB**[cite: 169]. [cite_start]The core analysis focused on four specific semi-structured JSON files[cite: 126, 170, 171]:
